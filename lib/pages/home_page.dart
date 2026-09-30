@@ -112,7 +112,7 @@ class _HomePageState extends State<HomePage> {
             Row(
               children: const [
                 Text(
-                  'Hello, Bayu',
+                  'Hello, Anindya',
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.w700,
